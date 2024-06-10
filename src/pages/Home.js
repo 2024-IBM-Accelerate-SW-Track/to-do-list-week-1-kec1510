@@ -8,7 +8,7 @@ class Home extends Component {
   constructor() {
     super();
     this.state = {
-      // create your empty list here call it todos.
+      // Empty list for the todos.
       todos: []
     };
   }
